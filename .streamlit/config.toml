@@ -1,0 +1,12 @@
+#configurações visuais do Dashboard
+[theme]
+#Cor primária#
+primaryColor="#556DE8"
+#Cor de fundo#
+backgroundColor="#FFFFFF"
+#Cor secundária#
+secondaryBackgroundColor="#D6D6D6"
+#Cor do texto#
+textColor="#000000"
+#Tipo de fonte#
+font="sans serif"
